@@ -1,0 +1,28 @@
+body {
+
+    background-color: #e4f46bf8;
+    color: rgba(237, 79, 0, 0.768);
+    font-family: 'Sacramento', cursive;
+}
+
+a {
+
+    color: #ed4f00c4;
+}
+
+a:hover {
+
+    color: #ed4f00c4;
+    background-color: #ebf790;
+}
+
+#terceraImagen {
+
+    width: 35%;
+    margin-bottom: 20px;
+}
+
+#segundaSeccion {
+
+    background-color: #e3d452;
+}
